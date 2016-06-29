@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><identifier>ir-10054-975</identifier><datestamp>2011-12-27T05:55:22Z</datestamp><dc:title>A consistent refined theory for flexure of a symmetric laminate</dc:title><dc:creator>PANDYA, BN</dc:creator><dc:creator>KANT, TARUN</dc:creator><dc:subject>laminates</dc:subject><dc:subject>bending</dc:subject><dc:subject>elasticity</dc:subject><dc:subject>finite element analysis</dc:subject><dc:subject>stress-strain relations</dc:subject><dc:description>Any two-dimensional plate theory is an approximation of the real three-dimen-
+
+sional elasticity problem.   The classical laminated plate theory is based on
+
+the Kirchhoff hypothesis and ignores the effects of transverse shear deforma-
+
+tion, normal stress, normal strain and nonlinear in-plane normal strain dis-
+
+tribution through the plate thickness [ 1,2].  Two types of composite plates
+
+are generally identified in practice: (i) 'fibre reinforced laminates' in
+
+which layers of composite materials with high ratios of Young's-to-shear
+
+modulii are bonded together and (2) 'sandwiches' in which layers of isotropic
+
+materials with some layers having significantly lower elastic modulii than
+
+others, are bonded together.   The effects of shear deformation are signific-
+
+ant in these situations and thus the classical theory is inadequate.   Exact
+
+elasticity solutions for flexure of some standard composite and sandwich
+
+plate problems have been obtained by Pagano [ 3] and Pagano and Hatfield [4].
+
+Whitney [5] and Mau [6] have presented first-order laminate theories in which
+
+transverse shear strain is assumed constant through the thickness.   This re-
+
+quired, however, use of a transverse shear correction factor which generally
+
+varied with the lamination scheme.</dc:description><dc:publisher>Elsevier</dc:publisher><dc:date>2009-03-18T09:11:46Z</dc:date><dc:date>2011-11-25T19:23:47Z</dc:date><dc:date>2011-12-26T13:07:14Z</dc:date><dc:date>2011-12-27T05:55:22Z</dc:date><dc:date>2009-03-18T09:11:46Z</dc:date><dc:date>2011-11-25T19:23:47Z</dc:date><dc:date>2011-12-26T13:07:14Z</dc:date><dc:date>2011-12-27T05:55:22Z</dc:date><dc:date>1987</dc:date><dc:type>Article</dc:type><dc:identifier>Mechanics Research Communications 14( 2), 107-113</dc:identifier><dc:identifier>0093-6413</dc:identifier><dc:identifier>http://dx.doi.org/10.1016/0093-6413(87)90026-7</dc:identifier><dc:identifier>http://hdl.handle.net/10054/975</dc:identifier><dc:identifier>http://dspace.library.iitb.ac.in/xmlui/handle/10054/975</dc:identifier><dc:language>en</dc:language></oai_dc:dc>

@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><identifier>ir-10054-1593</identifier><datestamp>2011-12-15T09:57:47Z</datestamp><dc:title>Commuting with delay prone buses</dc:title><dc:creator>DATAR, MAYUR</dc:creator><dc:creator>RANADE, ABHIRAM</dc:creator><dc:subject>algorithms</dc:subject><dc:subject>mathematical models</dc:subject><dc:subject>theorem proving</dc:subject><dc:subject>problem solving</dc:subject><dc:description>What is the fastest way to go from point X to point Y within a
+city using its public bus service, with bus changes as necessary?
+If buses ran according to a schedule this is an easy query -
+it can be solved by using classical shortest path algorithms.
+Unfortunately, as everyone knows, buses in most cities hardly
+confirm to a fixed schedule. Once you get into a bus it usually
+takes a predictable amount of time to reach its destinb.tion, but
+the amount of time you spend waiting for it is quite random
+and can usually be estimated only statistically.
+We present an algorithm to generate travel plans for such
+conditions. Our plans allow actions of the form "wait for buses
+with route number R1,R2 ... if you get into R1 get off at ...
+and wait for ..., else if you get into R2 ..." and are modeled
+as a tree. We guarantee that the expected time taken by
+the plan we generate will be minimum over all possible plans
+for travel between the given starting point and destination.
+The algorithm has been implemented for the bus system of
+Mumbai, and it generates the (optimal) travel plan essentially
+instantaneously. A transcript of a session with the program is
+included.</dc:description><dc:publisher>Society for Industrial and Applied Mathematics</dc:publisher><dc:date>2009-07-04T06:27:46Z</dc:date><dc:date>2011-11-28T08:44:47Z</dc:date><dc:date>2011-12-15T09:57:47Z</dc:date><dc:date>2009-07-04T06:27:46Z</dc:date><dc:date>2011-11-28T08:44:47Z</dc:date><dc:date>2011-12-15T09:57:47Z</dc:date><dc:date>2000</dc:date><dc:identifier>Proceedings of the 11th Annual ACM-SIAM Symposium on Discrete Algorithms, (SODA), San Francisco, California, USA, 9-11 January 2000, 22-29</dc:identifier><dc:identifier>0-89871-453-2</dc:identifier><dc:identifier>http://hdl.handle.net/10054/1593</dc:identifier><dc:identifier>http://dspace.library.iitb.ac.in/xmlui/handle/10054/1593</dc:identifier><dc:language>en</dc:language></oai_dc:dc>

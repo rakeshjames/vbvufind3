@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><identifier>ir-10054-1538</identifier><datestamp>2011-12-27T05:50:14Z</datestamp><dc:title>Real-time index concurrency control</dc:title><dc:creator>HARITSA, JAYANT R</dc:creator><dc:creator>SESHADRI, S</dc:creator><dc:subject>real-time systems</dc:subject><dc:subject>concurrency control</dc:subject><dc:subject>software performance evaluation</dc:subject><dc:subject>transaction processing</dc:subject><dc:subject>indexing</dc:subject><dc:description>Research on real-time database systems (RTDBS)
+has been underway for close to a decade now. So
+far, this research has focused mainly o11 identifying
+the appropriate choice, with respect to meeting the
+real-time goals, for the various database system policies
+such as priority assignment, transaction concurrency
+control, memory management, etc. (see [16] for
+a recent survey). However, the design and evaluation
+of concurrency control algorithms for indexes,
+which are an integral part of database systems, has
+received virtually no attention in the real-time environment.
+In our view, this lacuna is rather surprising
+since it appears reasonable to expect that indexes
+would be one of tbe primary mechanisms by which a
+well-designed RTDBS would try to meet transaction
+timing constraints. In this situation, using an "offthe-
+shelf" index concurrency control algorithm that
+has not been specifically designed for the real-time
+environment may lead to many transactions missing
+their deadlines.</dc:description><dc:publisher>ACM</dc:publisher><dc:date>2009-06-20T06:10:26Z</dc:date><dc:date>2011-11-25T15:01:56Z</dc:date><dc:date>2011-12-26T13:04:27Z</dc:date><dc:date>2011-12-27T05:50:14Z</dc:date><dc:date>2009-06-20T06:10:26Z</dc:date><dc:date>2011-11-25T15:01:56Z</dc:date><dc:date>2011-12-26T13:04:27Z</dc:date><dc:date>2011-12-27T05:50:14Z</dc:date><dc:date>1996</dc:date><dc:type>Article</dc:type><dc:identifier>ACM SIGMOD Record 25(1), 13-17</dc:identifier><dc:identifier>0163-5808</dc:identifier><dc:identifier>http://dx.doi.org/10.1145/381854.381870</dc:identifier><dc:identifier>http://hdl.handle.net/10054/1538</dc:identifier><dc:identifier>http://dspace.library.iitb.ac.in/xmlui/handle/10054/1538</dc:identifier><dc:language>en</dc:language></oai_dc:dc>

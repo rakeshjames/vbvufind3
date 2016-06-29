@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><identifier>ir-10054-547</identifier><datestamp>2011-12-15T09:56:50Z</datestamp><dc:title>Drain bias dependence of gate oxide reliability in conventional and asymmetrical channel MOSFETs in the low voltage regime</dc:title><dc:creator>ANIL, KG</dc:creator><dc:creator>MAHAPATRA, S</dc:creator><dc:creator>EISELE, I</dc:creator><dc:creator>RAMGOPAL RAO, V</dc:creator><dc:creator>VASI, J</dc:creator><dc:subject>current distribution</dc:subject><dc:subject>dielectric thin films</dc:subject><dc:subject>low-power electronics</dc:subject><dc:subject>doping profiles</dc:subject><dc:description>Drain bias dependence of gate oxide
+reliability is investigated on conventional
+(CON) and Lateral Asymmetric Channel
+(LAC) MOSFETs for low drain voltages
+that correspond to the real operating voltages
+for deep-sub-micron devices. For short
+channel devices, the oxide reliability improves
+drastically as drain bias increases.
+Device simulations showed that the vertical
+field distribution in the oxide is asymmetric
+for non-zero drain biases and this results
+in an asymmetric gate current distribution
+with the peak at the source end. By introducing
+an intentionally graded doping profile
+along the channel (LAC), the asymmetry
+in the vertical filed distribution can be
+enhanced with consequent improvement in
+gate oxide reliability.</dc:description><dc:publisher>IEEE</dc:publisher><dc:date>2009-01-05T13:00:37Z</dc:date><dc:date>2011-11-28T07:02:12Z</dc:date><dc:date>2011-12-15T09:56:50Z</dc:date><dc:date>2009-01-05T13:00:37Z</dc:date><dc:date>2011-11-28T07:02:12Z</dc:date><dc:date>2011-12-15T09:56:50Z</dc:date><dc:date>2000</dc:date><dc:type>Article</dc:type><dc:identifier>Proceeding of the 30th European Solid-State Device Research Conference, Cork, Ireland, 11-13 September 2000, 124-127</dc:identifier><dc:identifier>2-86332-248-6</dc:identifier><dc:identifier>http://hdl.handle.net/10054/547</dc:identifier><dc:identifier>http://dspace.library.iitb.ac.in/xmlui/handle/10054/547</dc:identifier><dc:language>en</dc:language></oai_dc:dc>

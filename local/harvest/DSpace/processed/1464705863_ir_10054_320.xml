@@ -1,0 +1,10 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd"><identifier>ir-10054-320</identifier><datestamp>2011-12-15T09:58:08Z</datestamp><dc:title>Performance and reliability of high density flash EEPROMs under CHISEL programming operation</dc:title><dc:creator>MAHAPATRA, S</dc:creator><dc:creator>SHUKURI, S</dc:creator><dc:creator>BUDE, JD</dc:creator><dc:subject>flash memories</dc:subject><dc:subject>integrated circuit reliability</dc:subject><dc:subject>integrated memory circuits</dc:subject><dc:subject>integrated circuit design</dc:subject><dc:description>We demonstrate CHISEL programming operation of    
+fully scaled high-density flash EEPROMs. Single cell program and erase characteristics show reliable.      
+operation in terms of programming disturbs and cycling
+induced degradation. Program and erase operation of
+high-density arrays show a unique post-erase operation,
+tight threshold voltage distribution and over 10 years of
+data retention even after 105 program/erase cycles.       
+Results are presented showing the feasibility of CHISEL   
+programming operation for deeply scaled high-density      
+flash EEPROMs.</dc:description><dc:publisher>IEEE</dc:publisher><dc:date>2008-12-15T10:30:12Z</dc:date><dc:date>2011-11-28T09:24:09Z</dc:date><dc:date>2011-12-15T09:58:08Z</dc:date><dc:date>2008-12-15T10:30:12Z</dc:date><dc:date>2011-11-28T09:24:09Z</dc:date><dc:date>2011-12-15T09:58:08Z</dc:date><dc:date>2002</dc:date><dc:type>Article</dc:type><dc:identifier>Proceeding of the 32nd European Solid-State Device Research Conference, Scotland, UK, 24-26 September 2002, 351-354.</dc:identifier><dc:identifier>88-900847-8-2</dc:identifier><dc:identifier>http://hdl.handle.net/10054/320</dc:identifier><dc:identifier>http://dspace.library.iitb.ac.in/xmlui/handle/10054/320</dc:identifier><dc:language>en</dc:language></oai_dc:dc>
